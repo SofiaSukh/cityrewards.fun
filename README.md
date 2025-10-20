@@ -2,7 +2,7 @@
 
 An interactive and engaging website for the CityRewards.fun project, serving as a platform for citizens to perform civic and sustainable impact actions, receive rewards (Action Points / CR), and contribute to the regeneration of the local economy.
 
-🌐 **Live Website**: [https://yourusername.github.io/cityrewards-website](https://yourusername.github.io/cityrewards-website)
+🌐 **Live Website**: [https://sofiasukh.github.io/cityrewards.fun/](https://sofiasukh.github.io/cityrewards.fun/)
 
 ## 🚀 Quick Start
 
